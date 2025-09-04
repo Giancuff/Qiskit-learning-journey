@@ -4,7 +4,7 @@
 In this GitHub repository I plan to document the steps and the exploration of the IBM's Qiskit tool, starting from the basics and hoping to get to the most interesting quantum algorithms.
 
 ## About me
-Physicist exploring practical quantum computing applications. Research focus on quantum information theory, quantum computation and quantum foundations.
+Physicist exploring practical quantum computing applications. Research focus on quantum information theory, quantum computation and quantum foundations. ([Linkedin](https://www.linkedin.com/in/gianluca-cuffaro-3987a1295/), [Scholar](https://scholar.google.com/citations?user=0fRnnmMAAAAJ&hl=it))
 
 ## Learning path
 - [] Circuits and gates
